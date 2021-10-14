@@ -72,7 +72,7 @@ let songs = [
     },
     {
         name: "music9",
-        title: "Tera home lga hoon",
+        title: "Tera hone lga hoon",
         artist: "Atif Aslam & Alisha Chinai",
     },
     {
